@@ -15,7 +15,7 @@ An image gallery with a smooth hover effect that enlarges the images on mouseove
 To view the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hover-image-slider.git
+   git clone https://github.com/Zeus_2oo1/hover-image-slider.git
 2. Open the Hover.html file in your browser to view the slider.
 ## Files
 - Hower.html: Main HTML structure.
