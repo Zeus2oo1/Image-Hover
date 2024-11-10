@@ -1,6 +1,6 @@
 # Image-Hover
 
-An image gallery with a smooth hover effect that enlarges the images on mouseover, arranged in a responsive flexbox layout. A GIF/video is included to showcase the hover effect in action.
+An image gallery with a smooth hover effect that enlarges the images on mouseover, arranged in a responsive flexbox layout.
 ## Demo
 
 ![Hover Slider Demo](Image-Hover-Gif/demo.gif)
